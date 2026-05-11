@@ -1,6 +1,5 @@
 streamlit
-segyio
 numpy
-matplotlib.pyplot
-tempfile
-os
+matplotlib
+scipy
+segyio==1.9.7
