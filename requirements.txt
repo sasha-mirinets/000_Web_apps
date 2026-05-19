@@ -1,5 +1,0 @@
-streamlit
-numpy
-matplotlib
-scipy
-segyio==1.9.14
